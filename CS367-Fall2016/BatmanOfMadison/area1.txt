@@ -1,0 +1,16 @@
+NODES
+a
+b
+c
+d
+e
+f
+EDGES
+a b 1
+b c 2 
+c d 1
+d e 3
+e f 1
+f a 1
+a c 4
+a d 20

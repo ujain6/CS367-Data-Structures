@@ -1,0 +1,63 @@
+NODES
+Camp_Randall
+CS_Dept
+Union_South
+ECE_Dept
+Picnic_Point
+Eagle_Heights
+UW_Hospital
+Mechanical_Building
+Wendt_Commons
+Gordon_Commons
+Psychology
+East_Campus_Mall
+VanHise
+Chemistry_Building
+Bascom_Hall
+Noland_Hall
+Red_Gym
+Memorial_Union
+Natatorium
+Discovery_Institute
+EDGES
+CS_Dept Union_South 2
+CS_Dept Camp_Randall 3
+CS_Dept Gordon_Commons 7
+CS_Dept Noland_Hall 3
+CS_Dept Psychology 2
+CS_Dept Chemistry_Building 5
+Camp_Randall Union_South 2 
+Camp_Randall UW_Hospital 12
+Union_South ECE_Dept 4
+Union_South Wendt_Commons 1
+Union_South Mechanical_Building 3
+ECE_Dept Wendt_Commons 3
+ECE_Dept Mechanical_Building 1
+Picnic_Point Natatorium 6
+Picnic_Point Eagle_Heights 2
+Picnic_Point UW_Hospital 7
+Picnic_Point Bascom_Hall 15
+Eagle_Heights Bascom_Hall 18
+Eagle_Heights UW_Hospital 7
+Eagle_Heights Natatorium 4
+UW_Hospital Mechanical_Building 7
+Mechanical_Building Natatorium 13
+Wendt_Commons Discovery_Institute 3
+Gordon_Commons Noland_Hall 3
+Gordon_Commons East_Campus_Mall 2
+Gordon_Commons Memorial_Union 2
+Psychology Noland_Hall 5
+Psychology VanHise 7
+Psychology Discovery_Institute 2
+East_Campus_Mall Memorial_Union 4
+East_Campus_Mall VanHise 8
+East_Campus_Mall Chemistry_Building 6
+Bascom_Hall Memorial_Union 4
+Bascom_Hall Natatorium 12
+Bascom_Hall Red_Gym 6
+Red_Gym VanHise 7
+Red_Gym Memorial_Union 6
+Natatorium UW_Hospital 5
+Natatorium VanHise  10
+VanHise Discovery_Institute 7
+

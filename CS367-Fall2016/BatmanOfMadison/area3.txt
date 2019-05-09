@@ -1,0 +1,31 @@
+NODES
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+EDGES
+A B 20
+A G 3
+A C 2
+C H 5
+B E 18
+E J 1
+B I 2
+F I 4
+D F 3
+B D 5
+D K 16
+K L 3
+M N 4
+L N 2 
+K M 1
