@@ -1,0 +1,90 @@
+-----101101967 Nella Marlow-----
+1. CS302	Introduction_to_Programming
+2. CS304	WES-CS_Group_Meeting
+3. CS310	Problem_Solving_using_Computers
+4. CS352	Digital_Systems_Fundamentals
+
+-----100419185 Isabella Schrick-----
+1. CS302	Introduction_to_Programming
+2. CS304	WES-CS_Group_Meeting
+
+-----100274094 Candance Minier-----
+
+-----101511131 Sonny Beamon-----
+1. CS302	Introduction_to_Programming
+2. CS304	WES-CS_Group_Meeting
+
+-----100615393 Harry Wall-----
+1. CS302	Introduction_to_Programming
+2. CS304	WES-CS_Group_Meeting
+
+-----101554327 Orville Gay-----
+1. CS302	Introduction_to_Programming
+2. CS304	WES-CS_Group_Meeting
+3. CS310	Problem_Solving_using_Computers
+4. CS352	Digital_Systems_Fundamentals
+5. CS354	Machine_Organization_and_Programming
+6. CS367	Introduction_to_Data_Structures
+
+-----101022333 Ressie Mcquillan-----
+
+-----100943226 Inge Tolleson-----
+
+-----100034058 Yasmin Tinnin-----
+1. CS302	Introduction_to_Programming
+2. CS304	WES-CS_Group_Meeting
+3. CS310	Problem_Solving_using_Computers
+4. CS352	Digital_Systems_Fundamentals
+
+-----100383243 Caren Batista-----
+1. CS302	Introduction_to_Programming
+
+-----101567904 Lorina Rosamond-----
+1. CS302	Introduction_to_Programming
+2. CS304	WES-CS_Group_Meeting
+3. CS310	Problem_Solving_using_Computers
+4. CS352	Digital_Systems_Fundamentals
+
+-----101443621 Leanne Ackermann-----
+1. CS302	Introduction_to_Programming
+2. CS304	WES-CS_Group_Meeting
+
+-----100986579 Ursula Piotrowski-----
+1. CS302	Introduction_to_Programming
+2. CS304	WES-CS_Group_Meeting
+3. CS310	Problem_Solving_using_Computers
+4. CS352	Digital_Systems_Fundamentals
+5. CS354	Machine_Organization_and_Programming
+6. CS367	Introduction_to_Data_Structures
+
+-----100834451 Loren Jayne-----
+1. CS302	Introduction_to_Programming
+2. CS304	WES-CS_Group_Meeting
+3. CS310	Problem_Solving_using_Computers
+4. CS352	Digital_Systems_Fundamentals
+5. CS354	Machine_Organization_and_Programming
+6. CS367	Introduction_to_Data_Structures
+
+-----101128036 Roxann Lavender-----
+
+-----101498009 Teisha Nevius-----
+
+-----100544691 Arturo Schrader-----
+1. CS302	Introduction_to_Programming
+2. CS304	WES-CS_Group_Meeting
+3. CS310	Problem_Solving_using_Computers
+
+-----100687484 Justina Brunell-----
+1. CS302	Introduction_to_Programming
+2. CS304	WES-CS_Group_Meeting
+3. CS310	Problem_Solving_using_Computers
+4. CS352	Digital_Systems_Fundamentals
+
+-----101362907 Bridgette Talley-----
+
+-----100331071 Harold Charpentier-----
+1. CS302	Introduction_to_Programming
+2. CS304	WES-CS_Group_Meeting
+3. CS310	Problem_Solving_using_Computers
+4. CS352	Digital_Systems_Fundamentals
+

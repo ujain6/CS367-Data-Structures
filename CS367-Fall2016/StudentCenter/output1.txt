@@ -1,0 +1,70 @@
+-----CS301 Introduction_to_Data_Programming-----
+
+-----CS302 Introduction_to_Programming-----
+1. 100419185	Isabella Schrick
+2. 100034058	Yasmin Tinnin
+3. 100834451	Loren Jayne
+4. 100383243	Caren Batista
+5. 101101967	Nella Marlow
+6. 101567904	Lorina Rosamond
+7. 100331071	Harold Charpentier
+8. 100615393	Harry Wall
+9. 100544691	Arturo Schrader
+10. 100986579	Ursula Piotrowski
+11. 101511131	Sonny Beamon
+12. 100687484	Justina Brunell
+13. 101443621	Leanne Ackermann
+14. 101554327	Orville Gay
+
+-----CS304 WES-CS_Group_Meeting-----
+1. 101443621	Leanne Ackermann
+2. 101554327	Orville Gay
+3. 101511131	Sonny Beamon
+4. 100615393	Harry Wall
+5. 101567904	Lorina Rosamond
+6. 100687484	Justina Brunell
+7. 100544691	Arturo Schrader
+8. 100986579	Ursula Piotrowski
+9. 101101967	Nella Marlow
+10. 100419185	Isabella Schrick
+11. 100034058	Yasmin Tinnin
+12. 100331071	Harold Charpentier
+13. 100834451	Loren Jayne
+
+-----CS310 Problem_Solving_using_Computers-----
+1. 100687484	Justina Brunell
+2. 100331071	Harold Charpentier
+3. 100986579	Ursula Piotrowski
+4. 101554327	Orville Gay
+5. 101101967	Nella Marlow
+6. 101567904	Lorina Rosamond
+7. 100834451	Loren Jayne
+8. 100034058	Yasmin Tinnin
+9. 100544691	Arturo Schrader
+
+-----CS352 Digital_Systems_Fundamentals-----
+1. 101554327	Orville Gay
+2. 101567904	Lorina Rosamond
+3. 100986579	Ursula Piotrowski
+4. 100331071	Harold Charpentier
+5. 100687484	Justina Brunell
+6. 101101967	Nella Marlow
+7. 100034058	Yasmin Tinnin
+8. 100834451	Loren Jayne
+
+-----CS354 Machine_Organization_and_Programming-----
+1. 100986579	Ursula Piotrowski
+2. 101554327	Orville Gay
+3. 100834451	Loren Jayne
+
+-----CS367 Introduction_to_Data_Structures-----
+1. 101554327	Orville Gay
+2. 100834451	Loren Jayne
+3. 100986579	Ursula Piotrowski
+
+-----CS368 Learning_a_New_Programming_Language-----
+
+-----CS369 Web_Programming-----
+
+-----CS371 Technology_of_Computer-Based_Business_Systems-----
+

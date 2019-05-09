@@ -1,0 +1,14 @@
+user,reed,patricia,preed,welcomePREED
+user,hanson,gary,ghanson,welcomeGHANSON
+user,fisher,arthur,afisher,welcomeAFISHER
+user,dixon,ralph,rdixon,welcomeRDIXON
+user,day,lois,lday,welcomeLDAY
+user,elliott,katherine,kelliott,welcomeKELLIOTT
+user,hart,joseph,jhartc,welcomeJHARTC
+flist,preed,rdixon,lday,jhartc
+flist,rdixon,lday,preed,kelliott,afisher
+bcast,rdixon,"best friends",rdixbf,preed,kelliott
+bcast,rdixon,"work people",rdixwp,preed,afisher,lday
+message,rdixon,afisher,01/19/2016 23:32:56,"How are you?",read
+message,rdixon,lday,01/19/2016 23:34:52,"Lets meet today",unread
+message,rdrixon,rdixbf,01/19/2016 23:36:54,"Good night!!",read,unread

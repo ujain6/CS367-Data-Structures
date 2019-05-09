@@ -1,0 +1,1176 @@
+#Points/Student
+	200
+#Courses
+	CS202 Introduction_to_Computation 92
+	CS240 Introduction_to_Discrete_Mathematics 60
+	CS250 Digital_Society:_The_Impact_of_Computers_and_Computer_Technology 54
+	CS252 Introduction_to_Computer_Engineering 38
+	CS270 Fundamentals_of_Human-Computer_Interaction 92
+	CS298 Directed_Study_in_Computer_Science 59
+	CS301 Introduction_to_Data_Programming 86
+	CS302 Introduction_to_Programming 55
+	CS304 WES-CS_Group_Meeting 67
+	CS310 Problem_Solving_using_Computers 57
+	CS352 Digital_Systems_Fundamentals 100
+	CS354 Machine_Organization_and_Programming 76
+	CS367 Introduction_to_Data_Structures 41
+	CS368 Learning_a_New_Programming_Language 64
+	CS369 Web_Programming 61
+	CS371 Technology_of_Computer-Based_Business_Systems 93
+	CS402 Introducing_Computer_Science_to_K-12_Students 59
+	CS407 Foundations_of_Mobile_Systems_and_Applications 60
+	CS412 Introduction_to_Numerical_Methods 84
+	CS416 Foundations_of_Scientific_Computing 42
+	CS425 Introduction_to_Combinatorial_Optimization 60
+	CS435 Introduction_to_Cryptography 95
+	CS471 Introduction_to_Computational_Statistics 76
+	CS475 Introduction_to_Combinatorics 62
+	CS506 Software_Engineering 42
+	CS513 Numerical_Linear_Algebra 40
+	CS514 Numerical_Analysis 90
+	CS515 Introduction_to_Splines_and_Wavelets 46
+	CS520 Introduction_to_Theory_of_Computing 80
+	CS524 Introduction_to_Optimization 91
+	CS525 Linear_Programming_Methods 55
+	CS526 Advanced_Linear_Programming 69
+	CS532 Theory_and_Applications_of_Pattern_Recognition 96
+	CS533 Image_Processing 47
+	CS534 Computational_Photography 87
+	CS536 Introduction_to_Programming_Languages_and_Compilers 98
+	CS537 Introduction_to_Operating_Systems 89
+	CS538 Introduction_to_the_Theory_and_Design_of_Programming_Languages 37
+	CS539 Introduction_to_Artificial_Neural_Networks_and_Fuzzy_Systems 74
+	CS540 Introduction_to_Artificial_Intelligence 85
+	CS545 Natural_Language_and_the_Computer 68
+	CS547 Computer_Systems_Modeling_Fundamentals 74
+	CS552 Introduction_to_Computer_Architecture 60
+	CS558 Introduction_to_Computational_Geometry 74
+	CS559 Computer_Graphics 38
+	CS564 Database_Management_Systems:_Design_and_Implementation 86
+	CS567 Medical_Image_Analysis 66
+	CS570 Introduction_to_Human-Computer_Interaction 62
+	CS576 Introduction_to_Bioinformatics 46
+	CS577 Introduction_to_Algorithms 50
+	CS578 Contest-Level_Programming 70
+	CS635 Tools_and_Environments_for_Optimization 71
+	CS638 Undergraduate_Topics_in_Computing 44
+	CS640 Introduction_to_Computer_Networks 45
+	CS642 Introduction_to_Information_Security 99
+	CS679 Computer_Game_Technology 52
+	CS681 Senior_Honors_Thesis_(681) 51
+	CS682 Senior_Honors_Thesis_(682) 88
+	CS691 Senior_Thesis_(691) 63
+	CS692 Senior_Thesis_(692) 96
+	CS699 Directed_Study 79
+	CS701 Programming_Languages_and_Compilers 83
+	CS703 Advanced_Topics_in_Programming_Languages_and_Compilers 65
+	CS704 Principles_of_Programming_Languages 75
+	CS706 Analysis_of_Software_Artifacts 96
+	CS707 Mobile_and_Wireless_Networking 51
+	CS710 Computational_Complexity 72
+	CS714 Methods_of_Computational_Mathematics_I 85
+	CS715 Methods_of_Computational_Mathematics_II 54
+	CS717 Numerical_Functional_Analysis 46
+	CS719 Stochastic_Programming 69
+	CS720 Integer_Programming 87
+	CS723 Dynamic_Programming_and_Associated_Topics 85
+	CS726 Nonlinear_Optimization_I 95
+	CS727 Convex_Analysis 61
+	CS728 Integer_Optimization 89
+	CS730 Nonlinear_Optimization_II 81
+	CS731 Advanced_Artificial_Intelligence 93
+	CS733 Computational_Methods_for_Large_Sparse_Systems 50
+	CS736 Advanced_Operating_Systems 92
+	CS737 Computer_System_Performance_Evaluation_and_Modeling 42
+	CS739 Distributed_Systems 86
+	CS740 Advanced_Computer_Networks 62
+	CS747 Advanced_Computer_Systems_Analysis_Techniques 51
+	CS750 Real-Time_Computing_Systems 96
+	CS752 Advanced_Computer_Architecture_I 60
+	CS753 Fault-Tolerant_Computing 68
+	CS755 VLSI_Systems_Design 46
+	CS756 Computer-Aided_Design_for_VLSI 48
+	CS757 Advanced_Computer_Architecture_II 96
+	CS758 Advanced_Topics_in_Computer_Architecture 42
+	CS759 High_Performance_Computing_for_Applications_in_Engineering 93
+	CS760 Machine_Learning 79
+	CS761 Advanced_Machine_Learning 72
+	CS764 Topics_in_Database_Management_Systems 67
+	CS766 Computer_Vision 75
+	CS767 Computational_Methods_for_Medical_Image_Analysis 89
+	CS769 Advanced_Natural_Language_Processing 38
+	CS770 Human-Computer_Interaction 60
+	CS776 Advanced_Bioinformatics 42
+	CS777 Computer_Animation 50
+	CS779 Rendering_Images_with_Computers 95
+	CS780 Robot_Motion_Planning 95
+	CS784 Data_Models_and_Languages 35
+	CS787 Advanced_Algorithms_and_Data_Structures 89
+	CS790 Masters_Thesis 56
+	CS799 Masters_Research 89
+	CS809 Mathematical_Techniques_for_Analysis_of_Algorithms 70
+	CS812 Arithmetic_Algorithms 48
+	CS830 Randomness_in_Computation 39
+	CS837 Topics_in_Numerical_Analysis 61
+	CS838 Topics_in_Computing 55
+	CS841 Computational_Cognitive_Science 90
+	CS880 Topics_in_Theoretical_Computer_Science 89
+	CS887 Approximation_Theory 71
+	CS899 Pre-Dissertator_Research 86
+	CS900 Advanced_Seminar_in_Computer_Science 49
+	CS915 Computation_and_Informatics_in_Biology_and_Medicine 39
+	CS990 Dissertation 97
+	CS999 Dissertator_Research 62
+#Student
+	Nella Marlow
+	101388914
+	CS536 15
+	CS726 75
+	CS841 94
+	CS809 98
+	CS302 3
+	CS354 85
+#Student
+	Isabella Schrick
+	101324074
+	CS784 36
+	CS717 74
+	CS755 23
+	CS769 98
+	CS371 87
+	CS701 36
+#Student
+	Candance Minier
+	100026593
+	CS723 55
+	CS301 63
+	CS769 80
+	CS915 36
+	CS425 25
+	CS506 80
+#Student
+	Sonny Beamon
+	101420297
+#Student
+	Harry Wall
+	101600702
+	CS682 20
+	CS727 73
+	CS533 45
+	CS250 1
+	CS425 2
+	CS520 66
+#Student
+	Orville Gay
+	101389984
+	CS720 81
+	CS547 32
+	CS692 5
+	CS691 53
+	CS576 50
+	CS769 89
+#Student
+	Ressie Mcquillan
+	100305535
+	CS779 54
+	CS250 19
+	CS752 30
+	CS368 98
+	CS758 26
+	CS830 21
+#Student
+	Inge Tolleson
+	101993173
+	CS692 53
+	CS525 22
+	CS733 8
+	CS720 71
+	CS526 26
+	CS533 2
+#Student
+	Yasmin Tinnin
+	101290722
+	CS534 69
+	CS475 71
+	CS750 74
+	CS737 28
+	CS250 53
+	CS701 53
+#Student
+	Caren Batista
+	100489697
+	CS564 33
+	CS301 20
+	CS699 51
+	CS755 7
+	CS640 74
+	CS761 24
+#Student
+	Lorina Rosamond
+	100493286
+	CS731 79
+	CS770 44
+	CS525 70
+	CS790 71
+	CS755 99
+	CS471 57
+#Student
+	Leanne Ackermann
+	100376535
+	CS520 85
+	CS761 58
+	CS475 84
+	CS298 60
+	CS830 63
+	CS558 27
+#Student
+	Ursula Piotrowski
+	101171754
+	CS740 2
+	CS539 17
+	CS719 26
+	CS837 48
+	CS545 82
+	CS730 72
+#Student
+	Loren Jayne
+	100859562
+	CS719 89
+	CS310 76
+	CS739 69
+	CS703 86
+	CS737 22
+	CS880 97
+#Student
+	Roxann Lavender
+	100936879
+	CS837 49
+	CS369 3
+	CS750 90
+	CS407 31
+	CS692 69
+	CS416 100
+#Student
+	Teisha Nevius
+	100950935
+	CS369 81
+	CS740 41
+	CS761 34
+	CS520 52
+	CS564 33
+	CS999 74
+#Student
+	Arturo Schrader
+	101029124
+	CS770 37
+	CS533 59
+	CS699 23
+	CS756 65
+	CS830 73
+	CS880 76
+#Student
+	Justina Brunell
+	100480879
+	CS506 69
+	CS750 22
+	CS692 10
+	CS720 48
+	CS787 51
+	CS736 97
+#Student
+	Bridgette Talley
+	100433819
+	CS737 60
+	CS780 69
+	CS578 65
+	CS753 30
+	CS715 98
+	CS532 71
+#Student
+	Harold Charpentier
+	100918772
+	CS692 27
+	CS710 72
+	CS764 58
+	CS407 87
+	CS520 60
+	CS310 2
+#Student
+	Melaine Messick
+	100913044
+	CS506 1
+	CS915 45
+	CS354 26
+	CS367 56
+	CS766 33
+	CS777 44
+#Student
+	Shonda Giancola
+	101366400
+	CS717 38
+	CS635 42
+	CS887 63
+	CS733 37
+	CS638 80
+	CS354 36
+#Student
+	Sun Jester
+	101565301
+	CS526 7
+	CS567 52
+	CS525 97
+	CS706 70
+	CS770 91
+	CS899 97
+#Student
+	Valene Hazzard
+	101519965
+	CS779 1
+	CS899 87
+	CS559 52
+	CS723 7
+	CS475 65
+	CS545 62
+#Student
+	Dortha Trimmer
+	100404580
+	CS552 76
+	CS534 55
+	CS704 33
+	CS900 8
+	CS701 2
+	CS514 52
+#Student
+	Shena Philipps
+	101286231
+	CS537 84
+	CS758 49
+	CS525 88
+	CS638 78
+	CS402 48
+	CS416 45
+#Student
+	Lionel Bailer
+	100381204
+	CS558 2
+	CS757 37
+	CS642 6
+	CS755 51
+	CS640 68
+	CS761 80
+#Student
+	Florence Whang
+	100106152
+#Student
+	Waylon Moctezuma
+	100721849
+	CS304 15
+	CS723 22
+	CS780 41
+	CS880 83
+	CS540 37
+	CS635 52
+#Student
+	Arla Hauptman
+	100153088
+	CS407 92
+	CS753 67
+	CS252 29
+	CS369 57
+	CS367 8
+	CS726 13
+#Student
+	Janay Smitherman
+	100512253
+	CS536 73
+	CS767 4
+	CS252 25
+	CS990 43
+	CS752 16
+	CS736 17
+#Student
+	Sha Syring
+	100806418
+	CS900 95
+	CS704 66
+	CS837 73
+	CS757 63
+	CS753 33
+	CS756 63
+#Student
+	Annamaria Capra
+	101462529
+	CS726 29
+	CS524 77
+	CS699 35
+	CS354 17
+	CS769 95
+	CS756 48
+#Student
+	Lelia Carrales
+	100924197
+	CS301 48
+	CS731 24
+	CS728 50
+	CS710 11
+	CS990 75
+	CS537 70
+#Student
+	Adela Sheehy
+	100732325
+	CS770 48
+	CS692 36
+	CS515 46
+	CS837 36
+	CS302 10
+#Student
+	Natosha Trapani
+	101928020
+	CS302 71
+	CS727 2
+	CS764 72
+	CS537 37
+	CS838 85
+	CS770 54
+#Student
+	Kathrine Gearheart
+	100987752
+	CS752 25
+	CS726 55
+	CS570 91
+	CS371 30
+	CS841 10
+	CS740 31
+#Student
+	Nu Dobyns
+	101162421
+	CS635 37
+	CS547 49
+	CS252 12
+	CS545 95
+	CS707 86
+	CS402 22
+#Student
+	Raguel Baltimore
+	100452307
+	CS756 47
+	CS407 43
+	CS537 98
+	CS682 40
+	CS514 45
+	CS750 43
+#Student
+	Pauline Brittian
+	101602270
+	CS536 28
+	CS435 9
+	CS352 92
+	CS533 10
+	CS999 77
+	CS539 41
+#Student
+	Kyla Kingrey
+	100700425
+	CS558 10
+	CS707 47
+	CS570 65
+	CS412 21
+	CS638 55
+	CS567 14
+#Student
+	Alix Sidle
+	101610801
+#Student
+	Lucienne Raposo
+	101906468
+	CS520 61
+	CS753 94
+	CS425 62
+	CS304 31
+	CS777 51
+	CS576 64
+#Student
+	Trenton Wagers
+	100625970
+	CS837 7
+	CS779 10
+	CS536 15
+	CS753 23
+	CS764 57
+	CS706 99
+#Student
+	Lettie Searfoss
+	101681473
+	CS371 86
+	CS753 93
+	CS520 60
+	CS710 90
+	CS691 69
+	CS514 72
+#Student
+	Florance Covin
+	101617427
+	CS577 55
+	CS367 19
+	CS761 3
+	CS425 63
+	CS570 82
+	CS841 27
+#Student
+	Stephani Monzon
+	101552552
+	CS425 92
+	CS552 20
+	CS838 55
+	CS730 31
+	CS812 72
+	CS559 8
+#Student
+	Awilda Rumore
+	100294752
+	CS691 30
+	CS753 39
+	CS250 96
+	CS252 43
+	CS638 49
+	CS760 40
+#Student
+	Qiana Zorn
+	101552032
+	CS737 71
+	CS747 24
+	CS715 74
+	CS727 7
+	CS692 40
+	CS759 16
+#Student
+	Macie Blanche
+	101097819
+	CS720 54
+	CS737 16
+	CS367 20
+	CS570 39
+	CS699 23
+	CS837 26
+#Student
+	Alejandrina Berkowitz
+	100049450
+	CS730 36
+	CS513 55
+	CS635 54
+	CS540 74
+	CS736 82
+	CS298 89
+#Student
+	Frances Dotson
+	100017306
+	CS552 30
+	CS715 8
+	CS525 9
+	CS704 92
+	CS635 57
+	CS760 31
+#Student
+	Meaghan Babineaux
+	100807673
+	CS755 82
+	CS475 33
+	CS776 94
+	CS533 64
+	CS368 81
+	CS887 65
+#Student
+	Jeannine Koehl
+	100816823
+	CS475 40
+	CS799 25
+	CS733 33
+	CS640 89
+	CS779 18
+	CS728 13
+#Student
+	Marybeth Gahagan
+	101380878
+	CS534 57
+	CS764 3
+	CS736 50
+	CS412 72
+	CS515 32
+	CS540 95
+#Student
+	Leann Maloney
+	100995443
+	CS576 49
+	CS520 89
+	CS838 52
+	CS707 17
+	CS841 14
+	CS730 3
+#Student
+	Freddy Marden
+	100793369
+	CS354 43
+	CS719 3
+	CS760 47
+	CS407 72
+	CS756 71
+	CS515 48
+#Student
+	Dick Speakman
+	101208270
+	CS270 65
+	CS720 75
+	CS513 89
+	CS830 31
+	CS524 30
+	CS407 50
+#Student
+	Marybelle Reny
+	101020498
+	CS766 69
+	CS740 33
+	CS757 46
+	CS540 84
+	CS790 72
+	CS764 69
+#Student
+	Hulda Schunk
+	100604856
+	CS999 39
+	CS475 72
+	CS759 22
+	CS766 9
+	CS779 27
+	CS532 1
+#Student
+	Alane Brogden
+	100046484
+	CS764 54
+	CS756 11
+	CS681 49
+	CS407 7
+	CS576 17
+	CS703 8
+#Student
+	Chante Dubiel
+	100700457
+	CS570 47
+	CS704 15
+	CS534 56
+	CS536 90
+	CS770 98
+	CS841 60
+#Student
+	Lina Graziani
+	101763383
+	CS638 11
+	CS790 88
+	CS252 27
+	CS559 66
+	CS352 24
+	CS769 61
+#Student
+	Lorie Lamarche
+	101911659
+	CS733 31
+	CS737 84
+	CS767 83
+	CS368 74
+	CS638 63
+	CS692 87
+#Student
+	King Siegler
+	101711162
+	CS691 56
+	CS525 50
+	CS471 78
+	CS367 13
+	CS681 26
+	CS577 90
+#Student
+	Donna Cazarez
+	100596926
+	CS731 55
+	CS755 8
+	CS525 19
+	CS727 66
+	CS352 51
+	CS538 50
+#Student
+	Deangelo Mullikin
+	100161401
+	CS536 26
+	CS352 65
+	CS737 32
+	CS707 38
+	CS841 72
+	CS520 88
+#Student
+	Rosanne Semien
+	101161816
+	CS682 97
+	CS310 54
+	CS753 61
+	CS533 42
+	CS475 91
+	CS412 42
+#Student
+	Raylene Adams
+	101242025
+	CS407 7
+	CS532 97
+	CS719 52
+	CS564 58
+	CS759 13
+	CS513 93
+#Student
+	Louetta Daw
+	101899547
+	CS727 66
+	CS714 19
+	CS703 69
+	CS838 74
+	CS578 42
+	CS250 50
+#Student
+	Foster Bryne  
+	101649081
+	CS830 2
+	CS301 41
+#Student
+	Carolann Delisle  
+	100422871
+	CS720 76
+	CS532 44
+	CS570 41
+	CS701 80
+	CS425 20
+	CS538 84
+#Student
+	Alisa Vogel  
+	100353788
+	CS737 72
+	CS755 78
+	CS760 83
+	CS717 84
+	CS304 20
+	CS733 10
+#Student
+	Kandy Sick  
+	100300075
+	CS525 32
+	CS310 60
+	CS564 56
+	CS841 51
+	CS714 96
+	CS728 57
+#Student
+	Magan Harless  
+	101132668
+	CS642 54
+	CS368 50
+	CS753 85
+	CS526 68
+	CS723 16
+	CS301 54
+#Student
+	Jada Sabala  
+	100633885
+	CS784 12
+	CS769 35
+	CS787 67
+	CS710 100
+	CS298 52
+	CS526 65
+#Student
+	Ashlee Cothern  
+	100796321
+	CS559 18
+	CS899 26
+	CS704 48
+	CS524 55
+	CS779 22
+	CS570 29
+#Student
+	Anastacia Bergen  
+	101424296
+	CS780 7
+	CS719 80
+	CS304 51
+	CS787 3
+	CS723 38
+	CS760 21
+#Student
+	Carmela Taing  
+	100531148
+	CS723 6
+	CS679 68
+	CS752 78
+	CS475 50
+	CS766 73
+	CS642 58
+#Student
+	Johnna Beecroft  
+	101495102
+	CS733 56
+	CS558 80
+	CS764 1
+	CS202 88
+	CS536 3
+	CS899 27
+#Student
+	Craig Cashman  
+	101951689
+	CS371 7
+	CS250 100
+	CS536 6
+	CS202 45
+	CS304 95
+	CS682 56
+#Student
+	Melba Montejano  
+	101248030
+	CS767 75
+	CS714 50
+	CS532 45
+	CS752 14
+	CS514 16
+	CS726 63
+#Student
+	Antony Eckard  
+	100012668
+	CS719 77
+	CS715 36
+	CS726 40
+	CS559 22
+	CS764 94
+	CS202 56
+#Student
+	Franchesca Cofer  
+	101618499
+	CS777 18
+	CS764 8
+	CS731 80
+	CS540 58
+	CS558 71
+	CS635 2
+#Student
+	Pam Spindler  
+	101209080
+	CS719 76
+	CS841 96
+	CS887 58
+	CS752 50
+	CS642 69
+	CS302 67
+#Student
+	Magaret Espy  
+	100681240
+	CS899 25
+	CS900 90
+#Student
+	Tatum Brooker  
+	100641033
+	CS435 68
+	CS545 27
+	CS779 34
+	CS354 59
+	CS576 11
+	CS352 97
+#Student
+	Maxima Chadburn  
+	101457251
+	CS707 36
+	CS760 27
+	CS900 60
+	CS770 37
+	CS740 52
+	CS710 73
+#Student
+	Maxie Stolp  
+	101199932
+	CS692 78
+	CS537 35
+	CS766 36
+	CS354 27
+	CS577 54
+	CS407 91
+#Student
+	Hong Aarons  
+	101280873
+	CS471 31
+	CS703 66
+	CS830 68
+	CS513 29
+	CS310 48
+	CS759 78
+#Student
+	Lorinda Powell  
+	101182236
+	CS577 48
+	CS301 36
+	CS506 97
+	CS728 33
+	CS536 64
+	CS475 59
+#Student
+	Efrain Quesinberry  
+	101119458
+	CS726 24
+	CS790 93
+	CS752 32
+	CS532 24
+	CS731 1
+	CS755 98
+#Student
+	Salome Mcconnell  
+	100883322
+	CS740 53
+	CS520 25
+	CS304 50
+	CS354 46
+	CS710 79
+	CS915 22
+#Student
+	Fredricka Kwiecien  
+	101402264
+	CS779 4
+	CS799 85
+	CS780 25
+	CS691 5
+	CS760 67
+	CS755 2
+#Student
+	Annalee Whitten  
+	100425772
+	CS435 55
+	CS733 43
+	CS759 18
+	CS564 87
+	CS371 56
+	CS780 19
+#Student
+	Raeann Arai  
+	100559875
+	CS703 48
+	CS525 69
+	CS540 62
+	CS838 80
+	CS679 7
+	CS533 71
+#Student
+	Cecile Bourget  
+	100884068
+	CS737 56
+	CS532 64
+	CS899 15
+	CS720 81
+	CS714 38
+	CS759 59
+#Student
+	Alba Messer  
+	101353321
+	CS552 47
+	CS558 86
+	CS750 76
+	CS780 23
+	CS539 1
+	CS779 47
+#Student
+	Hai Salem  
+	101100609
+	CS737 61
+	CS270 85
+	CS564 36
+	CS723 23
+	CS706 79
+	CS537 62
+#Student
+	Pearle Mendieta  
+	101807147
+	CS536 88
+	CS352 75
+	CS753 100
+	CS506 90
+	CS402 65
+	CS354 67
+#Student
+	Erwin Goupil  
+	100102150
+	CS567 75
+	CS758 1
+	CS425 47
+	CS635 47
+	CS532 2
+	CS990 28
+#Student
+	Cleveland Getman  
+	101521796
+	CS784 58
+	CS915 61
+	CS640 44
+	CS733 46
+	CS752 71
+	CS777 57
+#Student
+	Candy Bowyer  
+	101445459
+	CS733 23
+	CS576 99
+	CS367 12
+	CS766 55
+	CS298 56
+	CS635 7
+#Student
+	Liana Maloney  
+	100987668
+	CS570 78
+	CS681 88
+	CS755 63
+	CS777 84
+	CS402 64
+	CS727 34
+#Student
+	Eric Notaro  
+	101310464
+	CS536 78
+	CS681 94
+	CS740 83
+	CS402 10
+	CS799 54
+	CS310 4
+#Student
+	Temple Eidt  
+	101564229
+	CS252 56
+	CS520 66
+	CS737 41
+	CS779 96
+	CS567 86
+	CS809 33
+#Student
+	Lance Lawrie  
+	101135697
+	CS540 75
+	CS739 37
+	CS577 91
+	CS304 23
+	CS302 8
+	CS769 57
+#Student
+	Ebony Triana  
+	100803370
+	CS841 10
+	CS352 49
+	CS704 71
+	CS899 65
+	CS577 24
+	CS770 8
+#Student
+	Fatima Chiasson  
+	101368526
+	CS354 9
+	CS547 37
+	CS513 12
+	CS578 23
+	CS545 4
+	CS537 56
+#Student
+	Laquita Freedman  
+	100445471
+	CS252 75
+	CS352 20
+	CS841 20
+	CS515 1
+	CS638 60
+	CS761 44
+#Student
+	Yajaira Gerstner  
+	101597757
+	CS642 17
+	CS302 6
+	CS371 81
+	CS547 19
+	CS787 95
+	CS699 78
+#Student
+	Randall Hyde  
+	101220486
+	CS513 33
+	CS240 66
+	CS369 62
+	CS699 22
+	CS368 35
+	CS715 9
+#Student
+	Abbey Saez  
+	100277059
+	CS534 88
+	CS407 53
+	CS730 99
+	CS790 97
+	CS753 98
+	CS547 80
+#Student
+	Augustus Brandon  
+	100608301
+	CS298 43
+	CS727 22
+	CS715 20
+	CS737 49
+	CS761 19
+	CS514 11
+#Student
+	Antone Bruggeman  
+	101965300
+	CS679 30
+	CS900 11
+	CS715 27
+	CS790 43
+	CS638 12
+	CS369 7
+#Student
+	Brant Buchholtz  
+	100663044
+	CS402 12
+	CS567 12
+	CS779 28
+	CS747 11
+	CS691 47
+	CS552 7
+#Student
+	Vickey Chesley  
+	100146325
+	CS740 43
+	CS635 1
+	CS727 2
+	CS576 30
+	CS739 70
+	CS887 52
+#Student
+	Kristopher Heavner  
+	101856855
+	CS533 12
+	CS755 46
+	CS766 5
+	CS990 62
+	CS758 87
+	CS425 38
+#Student
+	Venice Mahan  
+	100449932
+	CS812 55
+	CS757 41
+	CS514 76
+	CS703 9
+	CS799 91
+	CS304 47
+#Student
+	Essie Tell  
+	101402243
+	CS769 100
+	CS726 32
+	CS761 78
+	CS784 97
+	CS506 31
+	CS679 95

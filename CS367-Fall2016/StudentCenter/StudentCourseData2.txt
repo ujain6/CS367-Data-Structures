@@ -1,0 +1,123 @@
+#Points/Student
+	100
+#Courses
+	CS301 Introduction_to_Data_Programming 20
+	CS302 Introduction_to_Programming 25
+	CS304 WES-CS_Group_Meeting 17
+	CS310 Problem_Solving_using_Computers 17
+	CS352 Digital_Systems_Fundamentals 10
+	CS354 Machine_Organization_and_Programming 7
+	CS367 Introduction_to_Data_Structures 11
+	CS368 Learning_a_New_Programming_Language 6
+	CS369 Web_Programming 6
+	CS371 Technology_of_Computer-Based_Business_Systems 9
+#Student
+	Nella Marlow
+	101101967
+	CS302 68
+	CS304 6
+	CS310 15
+	CS352 10
+#Student
+	Isabella Schrick
+	100419185
+	CS302 94
+	CS304 6
+#Student
+	Candance Minier
+	100274094
+#Student
+	Sonny Beamon
+	101511131
+	CS302 34
+	CS304 39
+#Student
+	Harry Wall
+	100615393
+	CS302 59
+	CS304 18
+#Student
+	Orville Gay
+	101554327
+	CS302 5
+	CS304 57
+	CS310 16
+	CS352 14
+	CS354 4
+	CS367 3
+#Student
+	Ressie Mcquillan
+	101022333
+#Student
+	Inge Tolleson
+	100943226
+#Student
+	Yasmin Tinnin
+	100034058
+	CS302 92
+	CS304 5
+	CS310 2
+	CS352 1
+#Student
+	Caren Batista
+	100383243
+	CS302 86
+#Student
+	Lorina Rosamond
+	101567904
+	CS302 64
+	CS304 13
+	CS310 5
+	CS352 13
+#Student
+	Leanne Ackermann
+	101443621
+	CS302 14
+	CS304 69
+#Student
+	Ursula Piotrowski
+	100986579
+	CS302 38
+	CS304 9
+	CS310 20
+	CS352 13
+	CS354 19
+	CS367 1
+#Student
+	Loren Jayne
+	100834451
+	CS302 88
+	CS304 3
+	CS310 3
+	CS352 1
+	CS354 2
+	CS367 3
+#Student
+	Roxann Lavender
+	101128036
+#Student
+	Teisha Nevius
+	101498009
+#Student
+	Arturo Schrader
+	100544691
+	CS302 55
+	CS304 10
+	CS310 2
+#Student
+	Justina Brunell
+	100687484
+	CS302 30
+	CS304 12
+	CS310 47
+	CS352 11
+#Student
+	Bridgette Talley
+	101362907
+#Student
+	Harold Charpentier
+	100331071
+	CS302 62
+	CS304 5
+	CS310 21
+	CS352 12

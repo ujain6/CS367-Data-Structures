@@ -1,0 +1,24 @@
+#Points/Student
+	100
+#Courses
+	CS367 Data_Structures 5
+	CS302 Intro_To_Programmming 2
+#Student
+	Arthur Fisher
+	2076594578
+	CS367 50
+	CS302 50
+#Student
+	Matthew John
+	5678900044
+	CS367 100
+#Student
+	Robert Dcosta
+	7898798754
+	CS367 80
+	CS302 20
+#Student
+	Albert Mustang
+	5674568893
+	CS302 0
+	CS367 100
